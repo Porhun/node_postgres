@@ -1,7 +1,6 @@
 {
   "name": "node_postgres",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -16,5 +15,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Porhun/node_postgres.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Porhun/node_postgres/issues"
+  },
+  "homepage": "https://github.com/Porhun/node_postgres#readme",
+  "description": ""
 }
